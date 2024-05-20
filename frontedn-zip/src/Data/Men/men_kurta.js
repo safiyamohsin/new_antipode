@@ -1,8 +1,8 @@
 export const mens_kurta=[
     {
-        "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l5h2xe80/kurta/x/6/n/xl-kast-tile-green-majestic-man-original-imagg4z33hu4kzpv.jpeg?q=70",
-        "brand": "Majestic Man",
-        "title": "Men Printed Pure Cotton Straight Kurta",
+        "imageUrl": "images/myImages/RadhaKrishn.jpg",
+        "brand": "Radha Krsihn",
+        "title": "Radha Krishn Art Work",
         "color": "Green",
         "discountedPrice": 499,
         "price": 1499,
@@ -28,7 +28,7 @@ export const mens_kurta=[
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
-        "imageUrl": "E:/InternshipPravinya/new_antipode/frontedn-zip/src/images/IMG_39.jpg",
+        "imageUrl": "images/myImages/IMG_39.jpg",
         "brand": "SG LEMAN",
         "title": "Men Embroidered Jacquard Straight Kurta",
         "color": "Yellow",
@@ -56,7 +56,7 @@ export const mens_kurta=[
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
-        "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/g/6/k/m-sksh-dt1105-pcbl-fubar-original-imafux247zhqym2z-bb.jpeg?q=70",
+        "imageUrl": "images/myImages/IMG-14.jpeg",
         "brand": "FUBAR",
         "title": "Men Printed Cotton Blend Straight Kurta",
         "color": "Blue",
