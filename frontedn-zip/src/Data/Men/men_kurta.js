@@ -28,7 +28,7 @@ export const mens_kurta=[
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
-        "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/l/f/r/xl-k-spl668-yellow-sg-leman-original-imagznqcrahgq9rf.jpeg?q=70",
+        "imageUrl": "E:/InternshipPravinya/new_antipode/frontedn-zip/src/images/IMG_39.jpg",
         "brand": "SG LEMAN",
         "title": "Men Embroidered Jacquard Straight Kurta",
         "color": "Yellow",
