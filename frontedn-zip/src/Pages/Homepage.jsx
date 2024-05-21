@@ -17,13 +17,13 @@ const Homepage = () => {
       <HomeCarousel images={homeCarouselData} />
 
       <div className="space-y-10 py-20">
-      <HomeProductSection data={mens_kurta} section={"Men's Kurta"} />
-        <HomeProductSection data={mensShoesPage1} section={"Men's Shoes"} />
-        <HomeProductSection data={lengha_page1} section={"Lengha Choli"} />
-        <HomeProductSection data={sareePage1} section={"Saree"} />
-        <HomeProductSection data={dressPage1} section={"Dress"} />
-        <HomeProductSection data={gounsPage1} section={"Women's Gouns"} />
-        <HomeProductSection data={kurtaPage1} section={"Women's Kurtas"} />
+      <HomeProductSection data={mens_kurta} section={"Illustration Paintings"} />
+        <HomeProductSection data={mensShoesPage1} section={"Customized Canvas"} />
+        <HomeProductSection data={lengha_page1} section={"Wall Paintings"} />
+        <HomeProductSection data={sareePage1} section={"Canvas Marvels"} />
+        <HomeProductSection data={dressPage1} section={"Poloride Card"} />
+        <HomeProductSection data={gounsPage1} section={"Phone Perfection"} />
+        {/* <HomeProductSection data={kurtaPage1} section={"Women's Kurtas"} /> */}
         {/* <HomeProductSection data={mensPantsPage1} section={"Men's Pants"} /> */}
       </div>
 
